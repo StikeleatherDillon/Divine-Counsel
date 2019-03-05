@@ -1,0 +1,2 @@
+# Divine-Counsel
+Divine Counsel is a web application for inspiring creative decision making while playing the Cleric class in D&amp;D 5e. Divine Counsel allows a user to enter their Character's name and their Character's Deity name, along with that Deities Domain (A rule-set in D&amp;D 5e). The application then presents cards from a traditional Tarot card deck that is relevant to the Domain picked, and outputs an inspirational quote associated with the cards presented.  
